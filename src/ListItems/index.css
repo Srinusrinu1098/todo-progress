@@ -1,0 +1,40 @@
+.item-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+.flexs {
+  display: flex;
+  align-items: center;
+}
+img {
+  height: 20px;
+  width: 20px;
+}
+.title {
+  padding-left: 10px;
+  font-size: 10px;
+}
+.domin {
+  padding-left: 10px;
+  font-size: 10px;
+  color: #64748b;
+  font-weight: bold;
+}
+.time {
+  font-size: 10px;
+}
+.li {
+  padding-bottom: 10px;
+}
+.delete {
+  height: 20px;
+  width: 20px;
+  align-self: center;
+}
